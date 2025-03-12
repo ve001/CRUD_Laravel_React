@@ -18,7 +18,7 @@ eliminating the need for a REST API while maintaining the benefits of a single-p
 - Flash messages for user feedback
 - Role-based access control (if implemented)
 
-##Requirements
+## Requirements
 Before installation, ensure you have the following:
 - PHP >= 8.3
 - Composer
