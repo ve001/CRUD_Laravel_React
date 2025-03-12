@@ -1,5 +1,10 @@
 # Laravel 12 CRUD with Image Upload
 
+## Overview
+This project is a modern Laravel 12 CRUD application using React with TypeScript and Inertia.js
+for a seamless full-stack experience. Inertia.js bridges the gap between Laravel and React,
+eliminating the need for a REST API while maintaining the benefits of a single-page application.
+
 ## Technologies and Versions Used
 #### PHP 8.3.10 
 #### NodeJS 23.8.0
@@ -8,11 +13,6 @@
 #### Typescrypt 
 #### Tailwind CSS
 #### SQLite
-
-## Overview
-This project is a modern Laravel 12 CRUD application using React with TypeScript and Inertia.js
-for a seamless full-stack experience. Inertia.js bridges the gap between Laravel and React,
-eliminating the need for a REST API while maintaining the benefits of a single-page application.
 
 ## Features
 - Laravel 12 as the backend
