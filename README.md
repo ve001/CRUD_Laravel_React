@@ -30,18 +30,39 @@ Before installation, ensure you have the following:
 ## Installation
 
 1. Clone repository
+   
    ```bash
    git clone https://github.com/your-repo.git
    ```
 2. Install depencies
+   
    ```bash
    composer install
    ```
 3. Install npm dependecies
+   
    ```bash
    npm install
    ```
 4. Start dev server
+   
    ```bash
    composer run dev
    ```
+
+# ScreenShots
+Posts are protected so that only the user who owns the post can delete or edit it.
+
+## Display all posts for that user
+
+![Posts](readmeimages/posts.png)
+
+## Create post with image preview
+
+![Create](readmeimages/create.png)
+
+## Show Post
+![Create](readmeimages/show.png)
+
+## Edit Post
+![Create](readmeimages/edit.png)
