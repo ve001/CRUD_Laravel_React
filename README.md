@@ -1,6 +1,8 @@
 # Laravel 12 CRUD with Image Upload
 
+## Technologies and Versions Used
 #### PHP 8.3.10 
+#### NodeJS 23.8.0
 #### Laravel 12 
 #### React 19 
 #### Typescrypt 
