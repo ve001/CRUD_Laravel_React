@@ -1,6 +1,11 @@
 # Laravel 12 CRUD with Image Upload with React Template
 
-## PHP, Laravel, React, Typescrypt, Tailwind CSS, SQLite
+#### PHP 8.3.10 
+#### Laravel 12 
+#### React 19 
+#### Typescrypt 
+#### Tailwind CSS
+#### SQLite
 
 ## Overview
 This project is a modern Laravel 12 CRUD application using React with TypeScript and Inertia.js
