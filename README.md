@@ -1,4 +1,4 @@
-# Laravel 12 CRUD with Image Upload with React Template
+# Laravel 12 CRUD with Image Upload
 
 #### PHP 8.3.10 
 #### Laravel 12 
